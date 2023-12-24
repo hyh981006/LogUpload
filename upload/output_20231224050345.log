@@ -1,0 +1,24 @@
+大家好，我是林新发
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+GameLogger:Log (object,UnityEngine.Object) (at Assets/Scripts/GameLogger/GameLogger.cs:72)
+Main:Start () (at Assets/Scripts/Main.cs:70)
+
+
+<color=#00ffff>我的CSDN博客：https://blog.csdn.net/linxinfa</color>
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+GameLogger:LogCyan (object,UnityEngine.Object) (at Assets/Scripts/GameLogger/GameLogger.cs:131)
+Main:Start () (at Assets/Scripts/Main.cs:71)
+
+
+<color=yellow>欢迎关注、点赞，感谢支持~</color>
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+GameLogger:LogYellow (object,UnityEngine.Object) (at Assets/Scripts/GameLogger/GameLogger.cs:122)
+Main:Start () (at Assets/Scripts/Main.cs:72)
+
+
+<color=red>❤❤❤❤❤❤❤❤❤❤❤</color>
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+GameLogger:LogRed (object,UnityEngine.Object) (at Assets/Scripts/GameLogger/GameLogger.cs:104)
+Main:Start () (at Assets/Scripts/Main.cs:73)
+
+
